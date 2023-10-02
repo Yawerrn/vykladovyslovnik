@@ -1,0 +1,14 @@
+{
+    "slovnik": {
+        "auto": "vozidlo",
+        "voda": "kvapalina",
+        "kamera": "zariadenie na nahravanie",
+        "bike": "bicykel"
+    },
+    "najcastejsie": {
+        "auto": "vozidlo",
+        "voda": "kvapalina",
+        "kamera": "zariadenie na nahravanie",
+        "bike": "bicykel"
+    }
+}
