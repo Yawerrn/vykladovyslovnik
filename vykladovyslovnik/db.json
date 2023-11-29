@@ -1,0 +1,35 @@
+{
+    "slovnik": {
+        "filip": {
+            "zlodej": 0,
+            "pocet": 15
+        },
+        "Vinco": {
+            "ozran": 0,
+            "pocet": 6
+        },
+        "prosim": {
+            "uz": 0,
+            "pocet": 4
+        },
+        "Zalan": {
+            "madar": 0,
+            "pocet": 3
+        },
+        "Tvoja mamka": {
+            "tlsta kunda": 0,
+            "pocet": 1
+        },
+        "netusim": {
+            "uz": 0,
+            "pocet": 3
+        }
+    },
+    "recent": [
+        "Tvoja mamka",
+        "Vinco",
+        "netusim",
+        "prosim",
+        "Zalan"
+    ]
+}
