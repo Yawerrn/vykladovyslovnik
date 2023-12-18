@@ -1,14 +1,35 @@
 {
     "slovnik": {
-        "auto": "vozidlo",
-        "voda": "kvapalina",
-        "kamera": "zariadenie na nahravanie",
-        "bike": "bicykel"
+        "flasa": {
+            "nadoba na tekutiny": 0,
+            "pocet": 15
+        },
+        "kos": {
+            "nadoba na odpadky": 0,
+            "pocet": 1
+        },
+        "cau": {
+            "pozdrav": 0,
+            "pocet": 8
+        },
+        "laptop": {
+            "prenosny pocitac": 0,
+            "pocet": 16
+        },
+        "stena": {
+            "cast domu": 0,
+            "pocet": 6
+        },
+        "lampa": {
+            "vec  co sviei": 0,
+            "pocet": 31
+        }
     },
-    "najcastejsie": {
-        "auto": "vozidlo",
-        "voda": "kvapalina",
-        "kamera": "zariadenie na nahravanie",
-        "bike": "bicykel"
-    }
+    "recent": [
+        "test",
+        "laptop",
+        "laptop",
+        "lampa",
+        "lampa"
+    ]
 }
