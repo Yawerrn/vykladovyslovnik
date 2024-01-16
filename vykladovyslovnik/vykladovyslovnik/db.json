@@ -1,0 +1,31 @@
+{
+    "slovnik": {
+        "auto": {
+            "automobil: osobne, nakladne": 0,
+            "pocet": 12
+        },
+        "autobus": {
+            "velke motorove vozidlo na hromadnu dopravu": 0,
+            "pocet": 1
+        },
+        "madarcina": {
+            "-y ?. ma?. jazyk; ako u?ebn\u00fd predmet i ma?. literat\u00fara": 0,
+            "pocet": 12
+        },
+        "netusim": {
+            "vyj. pochybnos?, ned\u00f4veru, sotva, ?a?ko, asi nie: u n\u00e1s sa uplatn\u00ed?, inde n.": 0,
+            "pocet": 38
+        },
+        "pes": {
+            "selma chovana ako domace zviera najme na strazenie": 0,
+            "pocet": 2
+        }
+    },
+    "recent": [
+        "pes",
+        "autobus",
+        "pes",
+        "madarcina",
+        "netusim"
+    ]
+}
