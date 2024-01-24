@@ -1,0 +1,31 @@
+{
+    "slovnik": {
+        "auto": {
+            "automobil: osobne, nakladne": 0,
+            "pocet": 13
+        },
+        "autobus": {
+            "velke motorove vozidlo na hromadnu dopravu": 0,
+            "pocet": 1
+        },
+        "macka": {
+            "\u00c5\u00a1elma chovan\u00c3\u00a1 ako dom\u00c3\u00a1ce zviera najm\u00c3\u00a4 na chytanie my\u00c5\u00a1\u00c3\u00ad, zool. Felis;jej samica: div\u00c3\u00a1 m.;m. m\u00c5\u02c6auk\u00c3\u00a1, pradie;m. a koc\u00c3\u00bar": 0,
+            "pocet": 20
+        },
+        "netusim": {
+            "vyj. pochybnos?, ned\u00f4veru, sotva, ?a?ko, asi nie: u n\u00e1s sa uplatn\u00ed?, inde n.": 0,
+            "pocet": 42
+        },
+        "pes": {
+            "selma chovana ako domace zviera najme na strazenie": 0,
+            "pocet": 8
+        }
+    },
+    "recent": [
+        "macka",
+        "macka",
+        "macka",
+        "macka",
+        "pes"
+    ]
+}
