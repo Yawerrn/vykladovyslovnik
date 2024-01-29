@@ -1,0 +1,51 @@
+{
+    "slovnik": {
+        "auto": {
+            "automobil: osobne, nakladne": 0,
+            "pocet": 12
+        },
+        "autobus": {
+            "velke motorove vozidlo na hromadnu dopravu": 0,
+            "pocet": 1
+        },
+        "madarcina": {
+            "-y ?. ma?. jazyk; ako u?ebný predmet i ma?. literatúra": 0,
+            "pocet": 28
+        },
+        "netusim": {
+            "vyj. pochybnos?, nedôveru, sotva, ?a?ko, asi nie: u nás sa uplatní?, inde n.": 0,
+            "pocet": 43
+        },
+        "pes": {
+            "selma chovana ako domace zviera najme na strazenie": 0,
+            "pocet": 15
+        },
+        "lul": {
+            "už viem": 0,
+            "pocet": 6
+        },
+        "Nazdar": {
+            "sadasd": 0,
+            "pocet": 0
+        },
+        "Mač": {
+            "asas": 0,
+            "pocet": 2
+        },
+        "af": {
+            "asassaa": 0,
+            "pocet": 0
+        },
+        "pog": {
+            "fungujes ? ": 0,
+            "pocet": 0
+        }
+    },
+    "recent": [
+        "Mač",
+        "Mač",
+        "lul",
+        "lul",
+        "lul"
+    ]
+}
